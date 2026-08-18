@@ -1,12 +1,13 @@
 # Hi, I'm Kyra 👋
 
-Software Developer | MEng ECE @ University of Waterloo
+Software Developer | MEng ECE @ University of Waterloo | 
 
 I'm interested in software development, full-stack engineering, and building practical applications.
 
 ## 👩‍💻 About Me
 
 - 🎓 MEng in Electrical & Computer Engineering at the University of Waterloo
+- 🎓 BASc Honours Computer Science @ McMaster University
 - 💻 Software development experience with full-stack web applications
 - 🌱 Interested in Backend and Full-Stack Software Engineering
 - 📍 Waterloo, Ontario, Canada
@@ -27,6 +28,10 @@ MySQL · Git · Docker · Linux
 
 ## 🚀 Projects
 
+### 🔨 Hammerly
+Full-stack online bidding platform
+React · REST API · Database
+
 ### 🃏 Gin Rummy Twist
 A digital recreation of the classic two-player card game.
 
@@ -44,4 +49,4 @@ Predicting Canada's unemployment rate using Linear Regression and LSTM models.
 
 ## 📫 Contact
 
-LinkedIn · Email
+Email：kyraoaij@gmail.com
