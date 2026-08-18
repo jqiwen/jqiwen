@@ -44,7 +44,7 @@ A full-stack web application that recreates the classic two-player Gin Rummy car
 ### 📊 Reddit Comments Analysis
 A data analysis and machine learning project using Reddit comment data.
 
-`Python` `Machine Learning`
+`Python` `Machine Learning` `NLP`
 
 ### 📈 Unemployment Rate Prediction
 Predicting Canada's unemployment rate using Linear Regression and LSTM models.
