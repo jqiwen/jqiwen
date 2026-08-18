@@ -29,21 +29,26 @@ MySQL · Git · Docker · Linux
 ## 🚀 Projects
 
 ### 🔨 Hammerly
-A full-stack online bidding platform
+A full-stack online bidding platform.
+
 `React` `REST API` `Typescript` `Database`
 
 ### 🃏 Gin Rummy Twist
 A full-stack web application that recreates the classic two-player Gin Rummy card game.
+
 `React` `Typescript` `Django` `REST API` `Google Cloud`
 
 ### 📊 Reddit Comments Analysis
 A data analysis and machine learning project using Reddit comment data.
+
 `Python` `Machine Learning`
 
 ### 📈 Unemployment Rate Prediction
 Predicting Canada's unemployment rate using Linear Regression and LSTM models.
+
 `Python` `Machine Learning`
 
 ## 📫 Contact
 
 Email：kyraoaij@gmail.com
+LinkedIn：https://www.linkedin.com/in/qiwen-jiao/
