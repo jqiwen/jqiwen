@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Kyra 👋
 
-<!--
-**jqiwen/jqiwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | MEng ECE @ University of Waterloo
 
-Here are some ideas to get you started:
+I'm interested in software development, full-stack engineering, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 MEng in Electrical & Computer Engineering at the University of Waterloo
+- 💻 Software development experience with full-stack web applications
+- 🌱 Interested in Backend and Full-Stack Software Engineering
+- 📍 Waterloo, Ontario, Canada
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Java · Python · C++ · JavaScript · TypeScript · SQL
+
+**Frontend:**  
+React · HTML · CSS
+
+**Backend:**  
+Spring Boot · Node.js · REST APIs
+
+**Database & Tools:**  
+MySQL · Git · Docker · Linux
+
+## 🚀 Projects
+
+### 🃏 Gin Rummy Twist
+A digital recreation of the classic two-player card game.
+
+`TypeScript`
+
+### 📊 Reddit Comments Analysis
+A data analysis and machine learning project using Reddit comment data.
+
+`Python`
+
+### 📈 Unemployment Rate Prediction
+Predicting Canada's unemployment rate using Linear Regression and LSTM models.
+
+`Python · Machine Learning`
+
+## 📫 Contact
+
+LinkedIn · Email
