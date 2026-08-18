@@ -15,16 +15,19 @@ I'm interested in software development, full-stack engineering, and building pra
 ## 🛠 Tech Stack
 
 **Languages:**  
-Java · Python · C++ · JavaScript · TypeScript · SQL
+Python · Java · JavaScript · TypeScript · SQL
 
 **Frontend:**  
-React · HTML · CSS
+React · Angular · Vue · Tailwind CSS · RxJS · Zustand · HTML
 
 **Backend:**  
-Spring Boot · Node.js · REST APIs
+Spring Boot · Django · Node.js · REST APIs
 
-**Database & Tools:**  
-MySQL · Git · Docker · Linux
+**Database:**  
+MySQL · DynamoDB · Redis · Spark · Elasticsearch
+
+**Cloud & DevOps:**
+AWS · GCP · IBM Cloud · Docker · Kubernetes · GitHub
 
 ## 🚀 Projects
 
