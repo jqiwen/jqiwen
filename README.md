@@ -54,4 +54,5 @@ Predicting Canada's unemployment rate using Linear Regression and LSTM models.
 ## 📫 Contact
 
 Email：kyraoaij@gmail.com
+
 LinkedIn：https://www.linkedin.com/in/qiwen-jiao/
