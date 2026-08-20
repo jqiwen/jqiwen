@@ -1,37 +1,44 @@
-# Hi, I'm Kyra 👋
+# Hi there, I'm Kyra 👋
 
-Software Developer | MEng ECE @ University of Waterloo
+I am a software engineer with a background in **full-stack development, cloud systems, and data-intensive applications**. I enjoy building practical software products from frontend interfaces to backend services and cloud infrastructure.
 
-I'm interested in software development, full-stack engineering, and building practical applications.
+My experience spans enterprise web applications, distributed systems, cloud-based data pipelines, and AI-enabled applications.
 
-## 👩‍💻 About Me
+### Core strengths include:
 
-- 🎓 MEng in Electrical & Computer Engineering @ University of Waterloo
-- 🎓 BASc Honours Computer Science @ McMaster University
-- 💻 Software development experience with full-stack web applications
-- 🌱 Interested in Frontend and Full-Stack Software Engineering
-- 📍 Waterloo, Ontario, Canada
+* **Full-stack engineering:** Experience building production web applications with React, Angular, Vue, Spring Boot, Django, Node.js, and REST APIs. Comfortable working across frontend architecture, backend services, databases, and API integration.
 
-## 🛠 Tech Stack
+* **Frontend development:** Hands-on experience building reusable UI components, managing application state with Zustand, Pinia, Redux, and RxJS, and developing scalable interfaces across large web applications.
 
-**Languages:**  
+* **Backend & distributed systems:** Experience developing Spring Boot and Django services, designing REST APIs, optimizing database queries, and building applications deployed across distributed environments.
+
+* **Cloud & data engineering:** Built AWS-based data pipelines using SQS, EC2, S3, DynamoDB, Redis, EMR, Spark, and Elasticsearch for scalable data ingestion and processing.
+
+* **AI & applied development:** Experience working with Generative AI, LLM APIs, RAG, NLP, and data pipelines that support downstream AI applications.
+
+* **DevOps & deployment:** Experience with Docker, Kubernetes, GitHub Actions, Linux, CI/CD pipelines, AWS, and GCP for building and deploying reliable applications.
+
+I focus on building **clean, scalable, and user-focused software**, with particular interest in full-stack engineering, cloud applications, and modern AI-powered systems.
+
+### 🛠 Tech Stack
+
+**Languages**
 Python · Java · JavaScript · TypeScript · SQL
 
-**Frontend:**  
-React · Angular · Vue · Tailwind CSS · RxJS · Zustand · HTML
+**Frontend**
+React · Angular · Vue · Zustand · Redux · RxJS · Tailwind CSS
 
-**Backend:**  
+**Backend**
 Spring Boot · Django · Node.js · REST APIs
 
-**Database:**  
-MySQL · DynamoDB · Redis · Spark · Elasticsearch
+**Data & AI**
+Apache Spark · Elasticsearch · Redis · Generative AI · LLM APIs · RAG · NLP
 
-**Cloud & DevOps:**
-AWS · GCP · IBM Cloud · Docker · Kubernetes · GitHub
+**Cloud & DevOps**
+AWS · GCP · Docker · Kubernetes · GitHub Actions · Linux
 
+### 📫 Connect with Me
 
-## 📫 Contact
-
-Email：kyraoaij@gmail.com
-
-LinkedIn：https://www.linkedin.com/in/qiwen-jiao/
+| Website                            | LinkedIn                                           |
+| ---------------------------------- | -------------------------------------------------- |
+| [Visit](https://jqiwen.github.io/) | [Connect](https://www.linkedin.com/in/qiwen-jiao/) |
