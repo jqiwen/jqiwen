@@ -22,19 +22,24 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 
 ### 🛠 Tech Stack
 
-**Languages**
+**Languages:**
+
 Python · Java · JavaScript · TypeScript · SQL
 
-**Frontend**
+**Frontend:**
+
 React · Angular · Vue · Zustand · Redux · RxJS · Tailwind CSS
 
-**Backend**
+**Backend:**
+
 Spring Boot · Django · Node.js · REST APIs
 
-**Data & AI**
+**Data & AI:**
+
 Apache Spark · Elasticsearch · Redis · Generative AI · LLM APIs · RAG · NLP
 
-**Cloud & DevOps**
+**Cloud & DevOps:**
+
 AWS · GCP · Docker · Kubernetes · GitHub Actions · Linux
 
 ### 📫 Connect with Me
