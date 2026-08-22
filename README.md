@@ -20,8 +20,9 @@ My experience spans enterprise web applications, distributed systems, cloud-base
 
 I focus on building **clean, scalable, and user-focused software**, with particular interest in full-stack engineering, cloud applications, and modern AI-powered systems.
 
+---
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Languages**
 
