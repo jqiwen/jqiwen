@@ -22,7 +22,7 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -47,7 +47,6 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 **AI & Data Engineering**
 
 `Generative AI` `LLM APIs` `RAG` `NLP` `Apache Spark`
-
 
 
 ### 📫 Connect with Me
