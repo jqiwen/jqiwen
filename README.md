@@ -20,18 +20,8 @@ My experience spans enterprise web applications, distributed systems, cloud-base
 
 I focus on building **clean, scalable, and user-focused software**, with particular interest in full-stack engineering, cloud applications, and modern AI-powered systems.
 
-### 🛠 Tech Stack
 
-- **Languages:** Python, Java, JavaScript, TypeScript, SQL  
-- **Frontend:** React, Angular, Vue, Zustand, Redux, RxJS, Tailwind CSS  
-- **Backend:** Spring Boot, Django, Node.js, REST APIs  
-- **Data Engineering:** Apache Spark, Elasticsearch, Redis  
-- **AI & LLM:** Generative AI, LLM APIs, RAG, NLP  
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions, Linux
-
-
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev)
