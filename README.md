@@ -22,31 +22,85 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" />&nbsp; Python
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22" height="22" />&nbsp; Java
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="22" height="22" />&nbsp; JavaScript
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" />&nbsp; TypeScript
+</p>
 
-**Frontend**
+### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,angular,vue,redux,tailwind)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22" height="22" />&nbsp; React
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="22" height="22" />&nbsp; Angular
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="22" height="22" />&nbsp; Vue
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="22" height="22" />&nbsp; Redux
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="22" height="22" />&nbsp; Tailwind CSS
+</p>
 
-**Backend**
+### Backend
 
-[![Backend](https://skillicons.dev/icons?i=spring,django,nodejs)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="22" height="22" />&nbsp; Spring Boot
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="22" height="22" />&nbsp; Django
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" />&nbsp; Node.js
+</p>
 
-**Data & Databases**
+### Data & Databases
 
-[![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" height="22" />&nbsp; PostgreSQL
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="22" height="22" />&nbsp; MySQL
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="22" height="22" />&nbsp; Redis
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="22" height="22" />&nbsp; Elasticsearch
+</p>
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="22" height="22" />&nbsp; AWS
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="22" height="22" />&nbsp; GCP
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="22" height="22" />&nbsp; Docker
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="22" height="22" />&nbsp; Kubernetes
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="22" height="22" />&nbsp; GitHub Actions
+</p>
 
-**AI & Data Engineering**
+### AI & Data Engineering
 
-`Generative AI` `LLM APIs` `RAG` `NLP` `Apache Spark`
+<p>
+  🤖&nbsp; Generative AI
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  🧠&nbsp; LLM APIs
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  🔎&nbsp; RAG
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  💬&nbsp; NLP
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="22" height="22" />&nbsp; Apache Spark
+</p>
+
+---
 
 
 ### 📫 Connect with Me
