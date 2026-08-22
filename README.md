@@ -22,7 +22,8 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 
 ---
 
-## 🛠️ Tech Stack
+<details>
+  <summary><h2 style="display:inline;">🛠️ Tech Stack</h2></summary>
 
 ### Languages
 
@@ -100,6 +101,7 @@ I focus on building **clean, scalable, and user-focused software**, with particu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="22" height="22" />&nbsp; Apache Spark
 </p>
 
+</details>
 ---
 
 ## 📬 Connect with Me
