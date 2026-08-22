@@ -102,9 +102,8 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 
 ---
 
+## 📬 Connect with Me
 
-### 📫 Connect with Me
-
-| Website                            | LinkedIn                                           |
-| ---------------------------------- | -------------------------------------------------- |
-| [Visit](https://jqiwen.github.io/) | [Connect](https://www.linkedin.com/in/qiwen-jiao/) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jqiwen.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jqiwen)
