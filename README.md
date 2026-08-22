@@ -24,21 +24,27 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 ### 🛠️ Tech Stack
 
 **Languages**
+
 [![Languages](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev)
 
 **Frontend**
+
 [![Frontend](https://skillicons.dev/icons?i=react,angular,vue,redux,tailwind)](https://skillicons.dev)
 
 **Backend**
+
 [![Backend](https://skillicons.dev/icons?i=spring,django,nodejs)](https://skillicons.dev)
 
 **Data & Databases**
+
 [![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch)](https://skillicons.dev)
 
 **Cloud & DevOps**
+
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux)](https://skillicons.dev)
 
 **AI & Data Engineering**
+
 `Generative AI` `LLM APIs` `RAG` `NLP` `Apache Spark`
 
 
