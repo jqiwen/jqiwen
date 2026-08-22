@@ -23,7 +23,7 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 ---
 
 <details>
-  <summary><h2 style="display:inline;">🛠️ Tech Stack</h2></summary>
+  <summary><h2 style="display:inline;">🛠️ Technical Skills </h2></summary>
 
 ### Languages
 
@@ -102,6 +102,8 @@ I focus on building **clean, scalable, and user-focused software**, with particu
 </p>
 
 </details>
+
+
 ---
 
 ## 📬 Connect with Me
