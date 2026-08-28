@@ -8,10 +8,6 @@ My experience spans **enterprise web applications, distributed systems, cloud-ba
 
 * **Full-stack engineering:** Experience building **production web applications** with **React, Angular, Vue, Spring Boot, Django, Node.js, and REST APIs**. Comfortable working across **frontend architecture, backend services, databases, and API integration**.
 
-* **Frontend development:** Hands-on experience building **reusable UI components**, managing application state with **Zustand, Pinia, Redux, and RxJS**, and developing **scalable interfaces** across large web applications.
-
-* **Backend & distributed systems:** Experience developing **Spring Boot and Django services**, designing **REST APIs**, optimizing **database queries**, and building applications deployed across **distributed environments**.
-
 * **Cloud & data engineering:** Built **AWS-based data pipelines** using **SQS, EC2, S3, DynamoDB, Redis, EMR, Spark, and Elasticsearch** for **scalable data ingestion and processing**.
 
 * **AI & applied development:** Experience working with **Generative AI, LLM APIs, RAG, NLP**, and data pipelines that support downstream **AI applications**.
